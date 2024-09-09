@@ -8,11 +8,6 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 
-import os
-from dotenv import load_dotenv
-load_dotenv()
-
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
