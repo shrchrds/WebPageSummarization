@@ -1,3 +1,4 @@
+validators
 langchain
 python-dotenv
 langchain-community
@@ -6,4 +7,3 @@ bs4
 langchain-text-splitters
 langchain-groq
 unstructured
-validators
