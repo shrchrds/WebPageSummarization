@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+langchain-community
+pypdf
+bs4
+langchain-text-splitters
+langchain-groq
+unstructured
