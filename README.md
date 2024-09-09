@@ -17,13 +17,15 @@ Before running the app, make sure you have the following:
 
 ```bash
 python -m venv env
+```
 
 4. Activate the virtual environment:
 ```bash
 env\Scripts\activate
+```
 
 5. Install the required dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Run the Streamlit app:
-streamlit run app.py
+```streamlit run app.py```
